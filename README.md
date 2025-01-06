@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer.</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="kalindu345"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalindu345&label=Profile%20views&color=0e75b6&style=flat" alt="kalindu345" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalindu345" alt="kalindu345" /></a> </p>
 
 - 🌱 I’m currently learning **React**
